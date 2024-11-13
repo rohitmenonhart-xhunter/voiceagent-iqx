@@ -38,7 +38,7 @@ function initiateCall() {
     statusMessage.textContent = "Initiating call...";
 
     // Make the POST request to initiate the call
-    fetch("https://0eb4-2405-201-e01b-e149-d936-4b7d-b6ca-824.ngrok-free.app/start-call/", {
+    fetch("https://569b-2405-201-e01b-e149-7475-d8cc-aa97-f75c.ngrok-free.app/start-call/", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
